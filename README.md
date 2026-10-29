@@ -1,10 +1,10 @@
 ### Hey, I'm Mohit.
 
-**Product analytics engineer.** I turn product and usage data into metrics teams trust: app data modelled in dbt, clear metric definitions, and dashboards people can use on their own.
+**Analytics engineer and solutions architect.** I design data platforms and turn product and usage data into metrics teams trust: app data modelled in dbt, clear metric definitions, and dashboards people can use on their own.
 
 I've spent 13 years in software and data, the last 7 building analytics platforms end to end, at an early-stage AI startup, an industrial energy company and for a private equity firm's portfolio companies.
 
-Open to product analytics and analytics engineering roles, in India or remote.
+Open to analytics engineering, data architecture and product analytics roles, in India or remote.
 
 🌐 [mohitkhanduri.com](https://mohitkhanduri.com) · 💼 [LinkedIn](https://www.linkedin.com/in/khandurimohit/) · 📄 [CV](https://mohitkhanduri.com/cv)
 
