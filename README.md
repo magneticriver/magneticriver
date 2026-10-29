@@ -1,10 +1,12 @@
 ### Hey, I'm Mohit.
 
-**Analytics engineer and solutions architect.** I design data platforms and turn product and usage data into metrics teams trust: app data modelled in dbt, clear metric definitions, and dashboards people can use on their own.
+**Analytics engineer and solutions architect.** I design and build data platforms, and I'm now moving into agentic AI: applications where LLM agents work with real data.
 
-I've spent 13 years in software and data, the last 7 building analytics platforms end to end, at an early-stage AI startup, an industrial energy company and for a private equity firm's portfolio companies.
+I've spent 13 years in software and data, 6+ of them building and observing analytics platforms end to end, at an early-stage AI startup, an industrial energy company and for a private equity firm's portfolio companies.
 
-Open to analytics engineering, data architecture and product analytics roles, in India or remote.
+Currently building [Ungraded Minds](https://ungradedminds.com), an AI-powered career counselling app for students, parents and counsellors in India.
+
+Open to analytics engineering, data architecture and agentic AI roles, in India or remote.
 
 🌐 [mohitkhanduri.com](https://mohitkhanduri.com) · 💼 [LinkedIn](https://www.linkedin.com/in/khandurimohit/) · 📄 [CV](https://mohitkhanduri.com/cv)
 
@@ -24,4 +26,4 @@ Most repos on this profile are **experiments from learning AI-assisted coding**:
 **Warehouse:** Snowflake · Databricks · MotherDuck / DuckDB · Postgres · BigQuery
 **Ingest and orchestrate:** dlt · Estuary · Airflow · Kestra
 **BI:** Metabase · Power BI · Tableau
-**Learning now:** PostHog, funnel and retention metrics, A/B test analysis
+**Learning now:** LLM agents, tracing and evals · PostHog, funnel and retention metrics, A/B test analysis
