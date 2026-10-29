@@ -1,25 +1,28 @@
-### Hi, I'm Mohit 👋
+### Hey, I'm Mohit.
 
-Analytics engineer with 13 years in software and data, the last 7 building analytics platforms end to end: ingestion, data modelling, transformation, BI and monitoring.
+**Product analytics engineer.** I turn product and usage data into metrics teams trust: app data modelled in dbt, clear metric definitions, and dashboards people can use on their own.
 
-At [MyNextFilm](https://mnf.ai), an early-stage AI startup, I set up the data stack from scratch (dlt, Estuary, MotherDuck, Kestra, dbt, Metabase) and tracked signups and usage of every AI feature. I work mostly in SQL, Python and dbt, have shipped production Django code, and use AI tools every day.
+I've spent 13 years in software and data, the last 7 building analytics platforms end to end, at an early-stage AI startup, an industrial energy company and across a group of businesses. Lately I've been building LLM agents on top of governed data.
 
-🌐 [mohitkhanduri.com](https://mohitkhanduri.com) · 💼 [LinkedIn](https://www.linkedin.com/in/khandurimohit/)
+Open to product analytics and analytics engineering roles, in India or remote.
 
----
+🌐 [mohitkhanduri.com](https://mohitkhanduri.com) · 💼 [LinkedIn](https://www.linkedin.com/in/khandurimohit/) · 📄 [CV](https://mohitkhanduri.com/cv)
+
+#### Selected work
+
+- [**Product analytics for an AI SaaS product**](https://mohitkhanduri.com/work/saas-product-analytics): set up the data stack from scratch (dlt, Estuary, MotherDuck, dbt, Kestra, Metabase) and gave the product team self-serve reporting on signups and usage of every AI feature.
+- [**Trusted metrics in a lakehouse**](https://mohitkhanduri.com/work/trusted-lakehouse-metrics): medallion layers, SCD Type 2 history and data quality rules on Databricks, so business metrics stayed consistent.
+- [**One set of metrics across several businesses**](https://mohitkhanduri.com/work/multi-business-metrics): ERP data from several companies into Snowflake with Airflow and dbt, shared metric definitions and four-tier row-level security in Power BI.
 
 #### Side projects
 
-| Project | What it shows | Stack |
-|---|---|---|
-| [**Consent-aware healthcare data platform**](https://github.com/mandakani/healthcare-data-agent-poc) | A raw → cleaned → analytics pipeline with one governed access layer (scope, consent, tag-driven masking, audit log). A tool-calling LLM agent runs through the same controls and can't get around them. | Python · DuckDB · SQL · litellm |
-| [**AI research advisor**](https://github.com/mandakani/ai-projects-sdd) | A LangGraph agent that asks clarifying questions, researches the live web and recommends with sources. Typed event streaming to a React UI, with every run traced in Opik. | FastAPI · LangGraph · React · TypeScript · Opik |
-| [**Privacy-first waitlist**](https://github.com/mandakani/delta-bmad/tree/main/web) | Parental-consent signup flows, 30-day deletion, and cookieless funnel counts stored as daily aggregates only. 41 tests. | Node · SQLite |
-| [**Reel script agent**](https://github.com/mandakani/reel-script-agent) | A tool-calling chat that gathers a brief, then streams a schema-validated video script. | Python · litellm · Groq |
+- [**Governed data agent**](https://github.com/mandakani/healthcare-data-agent-poc): an LLM agent over a medallion pipeline that goes through the same consent checks, data masking and filtered retrieval as any other caller. Python · DuckDB · litellm
+- [**AI research advisor**](https://github.com/mandakani/ai-projects-sdd): a LangGraph agent that asks clarifying questions, researches the web and recommends with sources; every run traced in Opik. FastAPI · React · TypeScript
 
 #### Toolbox
 
-**Languages:** SQL · Python · TypeScript / JavaScript
-**Data:** dbt · dlt · Estuary · Kestra · MotherDuck / DuckDB · Metabase
-**Apps:** Django · FastAPI · React
-**AI:** LangGraph · litellm · RAG · Opik · AI coding agents
+**Model and transform:** dbt · SQL · Python · Kimball · medallion
+**Warehouse:** Snowflake · Databricks · MotherDuck / DuckDB · Postgres · BigQuery
+**Ingest and orchestrate:** dlt · Estuary · Airflow · Kestra
+**BI:** Metabase · Power BI · Tableau
+**Learning now:** PostHog, funnel and retention metrics, A/B test analysis
